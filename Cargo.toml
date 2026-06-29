@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "probe",
+    "hub",
+]
+resolver = "2"
