@@ -90,7 +90,7 @@ cargo run -p hub
 ```
 
 ---
-
 ## 📜 许可证
 
-本项目基于 [MIT License](file:///Users/huangxin/Git/Rust/starshield/LICENSE) 许可协议进行授权。
+本项目基于 [MIT License](file:///Users/huangxin/Git/Rust/starshield/LICENSE-MIT) 与 [Apache License, Version 2.0](file:///Users/huangxin/Git/Rust/starshield/LICENSE-APACHE) 双重许可协议进行授权。详情请参阅 [LICENSE](file:///Users/huangxin/Git/Rust/starshield/LICENSE)、[LICENSE-MIT](file:///Users/huangxin/Git/Rust/starshield/LICENSE-MIT) 及 [LICENSE-APACHE](file:///Users/huangxin/Git/Rust/starshield/LICENSE-APACHE)。
+
